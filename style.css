@@ -51,6 +51,7 @@ body {
     justify-content: space-evenly;
     padding:100px;
 }
+
 .headline {
     width:300px;
     font-size:48px;
@@ -62,6 +63,8 @@ body {
     width:300px;
     font-size:18px;
     color:#E5E7EB;
+    margin-bottom:15px;
+    
 }
 
 .right-image {
@@ -146,7 +149,8 @@ button {
     font-size:18px;
     font-weight:bold;
     background-color: #3882F6;
-    border:2px solid #E5E7EB;
+    border:4px solid #E5E7EB;
+    width:150px;
     padding:10px 20px;
     border-radius:10px;
 }
